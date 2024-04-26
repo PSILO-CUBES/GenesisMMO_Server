@@ -11,5 +11,8 @@
    "dependencies": {
     "peer": "^1.0.0"
    },
-   "type": "module"
+   "type": "module",
+   "engines": {
+    "node": "18.14.0"
+  }
 }
