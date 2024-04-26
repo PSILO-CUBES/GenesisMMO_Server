@@ -1,5 +1,5 @@
 {
-   "name": "genesismooo-server",
+   "name": "genesismooo",
    "version": "1.0.0",
    "description": "",
    "main": "index.js",
@@ -11,8 +11,5 @@
    "dependencies": {
     "peer": "^1.0.0"
    },
-   "type": "module",
-   "engines": {
-    "node": "18.14.0"
-  }
+   "type": "module"
 }
