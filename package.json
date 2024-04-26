@@ -10,6 +10,5 @@
    "license": "ISC",
    "dependencies": {
     "peer": "^1.0.0"
-   },
-   "type": "module"
+   }
 }
